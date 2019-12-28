@@ -1,0 +1,12 @@
+
+RULES:
+S: (9) [G] [12/8] $In $Vr1 $Vr2 $Br1 $Vr2 $Br2 $Vr4 
+Vr4: (19) $A bVId7/ii | V7/ii | V7/V | V7 | I I6 IV viio/V | V bIId7 I . | 
+Br2: (24) vi ii7 | vi IVd7 | vi ii7 | vi IId7 | vi ii7 | vi V7/iii | iii bVId7/V | V7/V V7 | 
+Br1: (18) vi | | | vi IId7 | vi | vi V7/iii | iii bVId7/V | V7/V V7 | 
+Vr2: (7) $A I viix43 | I V7/vi | 
+Vr1: (7) $A bVId7/ii V7/ii | V7/V V7 | 
+In: (12) I iii64 | vi7 iv6 | viix7/V I64 | ii7 V | 
+A: (16) I | V7/vi | vi I64 | IV viix7/V | I64 V7/ii | V7/V V7 | 
+
+Key or time signature string '12/8' not recognized

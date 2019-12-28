@@ -1,0 +1,11 @@
+
+RULES:
+S: (11) [B] [12/8] $In $Vr $Vr $Ch $Vr $Vr $Ch $Inst $Fadeout 
+Fadeout: (3) $CP $CP $CP 
+CP: (6) I | | ii7 | | 
+Inst: (4) I | V | 
+Ch: (15) I | ii | bVII | i7 | bVI | bvii7 | I | | 
+Vr: (12) I | | bVII | | IV | | V | | 
+In: (17) I | | | | Id7 | | IV | | bVIId7 | | I | | 
+
+Key or time signature string '12/8' not recognized

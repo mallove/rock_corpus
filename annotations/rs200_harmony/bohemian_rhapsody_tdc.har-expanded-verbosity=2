@@ -1,0 +1,27 @@
+
+RULES:
+S: (4) [Eb] $Pt1 $Pt2 $Pt3 
+Pt3: (3) [4/4] $Ln $Ref 
+Pt2: (7) $Br1 $Br2 $Br3 $Br4 $Br5 $Rf1 $Rf2 
+Pt1: (3) $In1 $Vr1 $Vr2 
+Ref: (29) [Eb] vi iii | vi iii | vi iv | V11 | I IV64 | I viix43/V | V6 iv6/II | [F] V | . I | | | 
+Ln: (21) [Eb] [4/4] I V6 | vi . V6/vi vi | V6/vi vi V I | V/iii iii | IV I | 
+Rf2: (20) [Eb] [12/8] I | | | V/V | bIII IV #IV | bVI | IV | V | | | 
+Rf1: (41) [Eb] [12/8] I | | | V/V | V | . I | V | [6/8] . bVII | [12/8] V | . I | IV | ii | V | ii | V | ii V | ii V | 
+Br5: (32) [Eb] bVI V/VII VII V/bIII | bIII V I . | V . . I | IV I V . | I IV64 | V/iii iii | V | | | | 
+Br4: (40) [Eb] I V I . | V . . I | . V I V | . . . I | . V I V | . . . I | V . . I | V | bIII | 
+Br3: (20) [Eb] I | $A $A $C $C IV I6 | V/V V | IV I6 viix42/V ii7 | $A $A 
+Br2: (14) [A] III64 V/III | bIII64 V | I | | | [2/4] V | 
+Br1: (16) [A] I | | $C $C IV64 I IV64 I | . . IV64 I | 
+Vr2: (2) $Vr1a $Vr1b2 
+Vr1: (2) $Vr1a $Vr1b1 
+Vr1b2: (14) [Eb] $Vr1b $B V | I V6 | $B bVII . bVII/bVII vi/bVII | 
+Vr1b1: (9) [Eb] $Vr1b vi iv | I | [2/4] | 
+Vr1b: (12) [Eb] I . . V65 | $B V | I V6 | 
+Vr1a: (23) [Bb] I | | | vi | ii | ii V | I | vi | ii | viih7 . . ii64 | 
+In1: (30) [Bb] vi7 | V7/V | V7 | I | vi | [Eb] V7 | I | ii/V | V/V | $A $A [Bb] IV I6 | viix42/V V64 | | 
+C: (5) IV64 I . . | 
+B: (7) vi | ii . ii42 viih7 | 
+A: (5) bVI V #IV V | 
+
+Key or time signature string '12/8' not recognized

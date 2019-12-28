@@ -1,0 +1,10 @@
+
+RULES:
+S: (10) [Bb] [12/8] $In $Vr $Vr $Vr $Br $Vr I | 
+Br: (16) ii | I | ii | vi | ii | vi | V/V | V7 | 
+Vr: (2) $A $B 
+In: (16) I V6 vi I64 | ii65 V43/ii ii vi6 bVIId7 . VId7 . | V | 
+B: (11) I | ii . IV V7/vi | vi | I | 
+A: (7) I | | ii | vi | 
+
+Key or time signature string '12/8' not recognized

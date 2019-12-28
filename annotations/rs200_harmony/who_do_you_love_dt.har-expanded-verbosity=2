@@ -1,0 +1,26 @@
+
+RULES:
+S: (14) [Ab] $In $Vr1 $Ch1 $Vr2 $Ch2 $Vr2 $Ch2 $Inst $Vr4 $Ch2 $Vr2 $Ch2 $Fadeout 
+Fadeout: (13) I | | | | | | | | | | | | 
+Ch5: (9) I | | | | | | | | 
+Vr5: (5) I | | | | 
+Vr4: (9) I | | | | | | | | 
+Inst: (29) I | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Ch2: (9) I | | | | | | | | 
+Vr2: (5) I | | | | 
+Ch1: (11) I | | | | | | | | | | 
+Vr1: (17) I | | | | | | | | | | | | | | | | 
+In: (23) R V | | I | | | | | | | | | | | | | | | | | | 
+
+Warning: 'Ch5' is defined but never used
+Warning: 'Vr5' is defined but never used
+Raw chord progression:
+[Ab] R V | | I | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+
+Chords: V (0.500) I (2.000) 
+
+Chords w/ timepoints and roots:
+ 0.50  2.00     V   7   5   8   3
+ 2.00 138.00     I   0   1   8   8
+---
+

@@ -1,0 +1,10 @@
+
+RULES:
+S: (9) [Db] [12/8] $In $VP $VP $VP $VP2 $Br $Fadeout 
+Fadeout: (4) $VP $VP $VP $VP 
+Br: (17) IV | I | IV | I | IV | I vi | V/V | V | 
+In: (1) $VP 
+VP2: (12) I V6 | vi iii6 | IV V | I V7/IV | 
+VP: (12) I V6 | vi iii6 | IV V | I V | 
+
+Key or time signature string '12/8' not recognized

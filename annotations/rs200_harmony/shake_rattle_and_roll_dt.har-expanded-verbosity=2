@@ -1,0 +1,9 @@
+
+RULES:
+S: (12) [Eb] [12/8] $In $Vr $Vr $Vr $Ch $Vr $Vr $Ch $Vr $Ch 
+Ch: (1) $BP 
+Vr: (1) $BP 
+BP: (18) I | | | | IVd7 | | I | | V7 | IVd7 | I | | 
+In: (5) I | | | | 
+
+Key or time signature string '12/8' not recognized

@@ -1,0 +1,11 @@
+
+RULES:
+S: (7) [F] [12/8] $In $Zz $Zz $Ch1 $Ch2 
+Zz: (4) $Ch1 $Ch2 $Vr1 $Vr2 
+Vr2: (16) I | V7/IV | IV | | I | V | I IV | V7/IV | 
+Vr1: (14) I | V7/IV | IV | | I | | V | V7 | 
+Ch2: (14) IV | | I | | V | | I IV | I | 
+Ch1: (13) IV | | I | | V | | I | V7/IV | 
+In: (2) V7/IV | 
+
+Key or time signature string '12/8' not recognized

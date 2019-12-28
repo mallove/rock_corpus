@@ -1,0 +1,6 @@
+
+RULES:
+S: (15) [E] [12/8] R | $Vr $Vr $Vr $Vr $Vr $Vr I bII I . | 
+Vr: (12) I | | | | IV | | V | I | 
+
+Key or time signature string '12/8' not recognized

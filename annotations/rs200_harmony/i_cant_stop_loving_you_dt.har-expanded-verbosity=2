@@ -1,0 +1,7 @@
+
+RULES:
+S: (9) [F] [12/8] V7/IV | $Ch $Vr $Ch $Vr $Ch 
+Vr: (29) I | V7/IV | IV | | I | | V7 | | I | V7/IV | IV | | I64 | V7 | I V11 | V7/IV | 
+Ch: (27) IV | | I | | V7 | | I | V7/IV | IV | | I | | V7 | | I IV64 | I | 
+
+Key or time signature string '12/8' not recognized

@@ -1,0 +1,8 @@
+
+RULES:
+S: (13) [A] [12/8] R | $In $Ex $A $A $Ex $A $A $A $A 
+Ex: (5) I | | | | 
+A: (17) I | | | | IV | | I | | V | | I | | 
+In: (23) I | [6/8] | [12/8] | [6/8] | [12/8] | | IV | | I | | V | | I | | 
+
+Key or time signature string '12/8' not recognized

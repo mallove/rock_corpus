@@ -1,0 +1,8 @@
+
+RULES:
+S: (12) [C] [12/8] $In $Vr $Vr $Vr $Vr $Vr $Vr $Vr $Vr $Vfinal 
+Vfinal: (19) I | | | | IV | | I | | V | | IV | I | | 
+Vr: (18) I | | | | IV | | I | | V | IV | I | | 
+In: (5) I | | | | 
+
+Key or time signature string '12/8' not recognized

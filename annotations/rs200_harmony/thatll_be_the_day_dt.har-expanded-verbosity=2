@@ -1,0 +1,10 @@
+
+RULES:
+S: (11) [A] [12/8] $In $Ch $Vr $Ch $So $Ch $Vr $Ch $Coda 
+Coda: (12) IV | | I | | IV | | I | | 
+So: (20) I | | | | IV | | I | | V | IV | I | . V | 
+Vr: (16) IV | I | IV | I | IV | I | V/V | V | 
+Ch: (14) IV | | I | | IV | | I | V I | 
+In: (5) I | . V | 
+
+Key or time signature string '12/8' not recognized

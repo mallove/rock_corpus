@@ -1,0 +1,19 @@
+
+RULES:
+S: (8) [D] $In $Vr $Ch $Vr2 $Ch $Br $Fadeout 
+Fadeout: (2) $Ch $Ch 
+Br: (14) R | | | | I | | | | | | | | 
+Ch: (9) I | | | | | | | | 
+Vr2: (13) I | | | | | | | | | | | | 
+Vr: (17) I | | | | | | | | | | | | | | | | 
+In: (9) I | | | | | | | | 
+
+Raw chord progression:
+[D] I | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | R | | | | I | | | | | | | | | | | | | | | | | | | | | | | | 
+
+Chords: I (0.000) 
+
+Chords w/ timepoints and roots:
+ 0.00 80.00     I   0   1   2   2
+---
+

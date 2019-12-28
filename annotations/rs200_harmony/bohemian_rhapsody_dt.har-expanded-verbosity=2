@@ -1,0 +1,14 @@
+
+RULES:
+S: (10) [Bb] $A $B $B2 $C $D1 $D2 $D3 $E $F 
+F: (47) [Eb] I V6 | vi . V/vi vi | V/vi vi V I | V/iii iii | IV I | vi iii | vi iii | vi iv | V | I | . viix7 | V6 v6 | [F] V | . I | | | 
+E: (53) [Eb] [12/8] I | | | II | V | | | [6/8] bVII | [12/8] V | . I | IV | ii | V | ii | V | ii V | ii V | I | | | II | bIII | bVI | IV | V | | | 
+D3: (28) [Eb] V/bVI | bvi V/VII VII V/bVI | bVI V I . | | . V | I IV | V7/iii iii | V | | | | 
+D2: (32) [Eb] V | | I | V . . I | . V . . | . I | . V . . | . I | V I | V | 
+D1: (38) [A] I | | | | | | III64 V7/III | bIII64 V | I | | | [2/4] V | [4/4] [Eb] vi7 | V | | I | | IV I | V/V V | | 
+C: (19) [Eb] I V6 | vi | ii | V | I V6 | vi | ii | bVII | 
+B2: (28) I | | | vi | ii | . V | I | vi | ii | V6 | [Eb] I | vi | ii | V | 
+B: (36) I | vi | ii | . V | I | vi | ii | V6 | [Eb] I | vi | ii | V | I V6 | vi iv | I | [2/4] | 
+A: (32) vi | V7/V | V7 | I | vi | V7/IV | I | ii | V7 | V/IV | | IV I6 | viix42/V V43 | V7 | I | | 
+
+Key or time signature string '12/8' not recognized

@@ -1,0 +1,16 @@
+
+RULES:
+S: (8) [Eb] [12/8] $Zz $Zz $Br1 $Br2 $Ch2 $Ou 
+Zz: (2) $Vr $Ch1 
+Ou: (17) [Gb] I | | [Ab] I | | [Bb] I | | [Ab] I | | $B 
+Ch2: (8) [Bb] $B [Ab] $B [Gb] Id7 | | 
+Br2: (13) [F] $D $D $D $D $D I | | [Bb] V7 | | 
+Br1: (10) [Bb] $C $C $C IV | | | | $C 
+Ch1: (7) [Gb] $B $B [Ab] $B [Bb] $B 
+Vr: (7) $A V | $A [Gb] V | 
+D: (7) I | | ii | V | 
+C: (5) I | | | | 
+B: (5) Id7 | | | | 
+A: (11) i | | bVII | | bVI | | V | 
+
+Key or time signature string '12/8' not recognized
