@@ -71,7 +71,7 @@ struct {
 
 int num_measures, num_chords, num_keysecs;
 
-int verbosity;       /* if 0; print chord list; if 1, print raw chord prog; if 2, print rules, raw prog, and chord list;
+int verbosity = -2;       /* if 0; print chord list; if 1, print raw chord prog; if 2, print rules, raw prog, and chord list;
 			if -1, print measure list with time sigs; if -2, print list of key sections */
 
 read_analysis() {
@@ -765,7 +765,7 @@ main(int argc, char * argv[]) {
     int a, r2, c, c2, last_chord;
     struct citem * ci;
 
-    verbosity=1;
+    verbosity=2;
 
     song_file = stdin;
     for(a=1; a < argc; a++) {
